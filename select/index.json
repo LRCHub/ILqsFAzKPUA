@@ -1,0 +1,280 @@
+{
+  "version": 1,
+  "base_track": "Good Morning",
+  "base_artist": "First Love is Never Returned",
+  "createdAt": "2026-04-03T14:31:19.478140Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Good Morning Beautiful",
+      "artist": "Steve Holy",
+      "has_synced": true,
+      "path": "select/01_Good_Morning_Beautiful_Steve_Holy.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Good Morning Jennyville",
+      "artist": "Jenny Tolman",
+      "has_synced": false,
+      "path": "select/02_Good_Morning_Jennyville_Jenny_Tolman.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning - Live",
+      "artist": "Charley Pride",
+      "has_synced": false,
+      "path": "select/03_Kiss_An_Angel_Good_Morning_-_Live_Charley_Pride.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kiss An Angel Good Morning (Live)",
+      "artist": "Charlie Pryde",
+      "has_synced": false,
+      "path": "select/04_Kiss_An_Angel_Good_Morning_(Live)_Charlie_Pryde.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hello Good Morning - Remix",
+      "artist": "Diddy - Dirty Money feat. Nicki Minaj & Rick Ross",
+      "has_synced": true,
+      "path": "select/05_Hello_Good_Morning_-_Remix_Diddy_-_Dirty_Money_feat._Nicki_Minaj_&_Rick_Ross.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hello Good Morning (Remix) Feat Rick Ross",
+      "artist": "Nicki Minaj",
+      "has_synced": true,
+      "path": "select/06_Hello_Good_Morning_(Remix)_Feat_Rick_Ross_Nicki_Minaj.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hello Good Morning (Remix) [feat. Nicki Minaj & Rick Ross]",
+      "artist": "Diddy - Dirty Money",
+      "has_synced": true,
+      "path": "select/07_Hello_Good_Morning_(Remix)_[feat._Nicki_Minaj_&_Rick_Ross]_Diddy_-_Dirty_Money.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Good Morning Judge",
+      "artist": "10cc",
+      "has_synced": true,
+      "path": "select/08_Good_Morning_Judge_10cc.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Morning Blues",
+      "artist": "Lead Belly",
+      "has_synced": false,
+      "path": "select/09_Good_Morning_Blues_Lead_Belly.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Good Morning Melody",
+      "artist": "Lullatone",
+      "has_synced": false,
+      "path": "select/10_Good_Morning_Melody_Lullatone.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Good Morning Little School Girl",
+      "artist": "Muddy Waters",
+      "has_synced": false,
+      "path": "select/11_Good_Morning_Little_School_Girl_Muddy_Waters.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Morning Heartache",
+      "artist": "Ol’ Dirty Bastard",
+      "has_synced": false,
+      "path": "select/12_Good_Morning_Heartache_Ol’_Dirty_Bastard.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Good Morning Mr. Edminton",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/13_Good_Morning_Mr._Edminton_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Good Morning Mr. Railroad Man",
+      "artist": "Ry Cooder",
+      "has_synced": false,
+      "path": "select/14_Good_Morning_Mr._Railroad_Man_Ry_Cooder.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good Morning America",
+      "artist": "Moistboyz",
+      "has_synced": false,
+      "path": "select/15_Good_Morning_America_Moistboyz.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Morning Little Schoolgirl",
+      "artist": "Rod Stewart",
+      "has_synced": true,
+      "path": "select/16_Good_Morning_Little_Schoolgirl_Rod_Stewart.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Country'd Look Good On You",
+      "artist": "Frank Ray",
+      "has_synced": true,
+      "path": "select/17_Country'd_Look_Good_On_You_Frank_Ray.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "GOOD TIME",
+      "artist": "Niko Moon",
+      "has_synced": true,
+      "path": "select/18_GOOD_TIME_Niko_Moon.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Good Beer",
+      "artist": "Seaforth feat. Jordan Davis",
+      "has_synced": true,
+      "path": "select/19_Good_Beer_Seaforth_feat._Jordan_Davis.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Good Beer",
+      "artist": "Seaforth",
+      "has_synced": true,
+      "path": "select/20_Good_Beer_Seaforth.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Good Friends",
+      "artist": "Maren Morris",
+      "has_synced": true,
+      "path": "select/21_Good_Friends_Maren_Morris.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Good Life",
+      "artist": "Kip Moore",
+      "has_synced": true,
+      "path": "select/22_Good_Life_Kip_Moore.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Good Ol' Man",
+      "artist": "Drew Green",
+      "has_synced": true,
+      "path": "select/23_Good_Ol'_Man_Drew_Green.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Good Ol' Man",
+      "artist": "Drew Green",
+      "has_synced": true,
+      "path": "select/24_Good_Ol'_Man_Drew_Green.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Good Things",
+      "artist": "Dan + Shay",
+      "has_synced": true,
+      "path": "select/25_Good_Things_Dan_+_Shay.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Good With Goodbye",
+      "artist": "John Morgan",
+      "has_synced": true,
+      "path": "select/26_Good_With_Goodbye_John_Morgan.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Good as Hell (feat. Ariana Grande) [Remix]",
+      "artist": "Lizzo",
+      "has_synced": true,
+      "path": "select/27_Good_as_Hell_(feat._Ariana_Grande)_[Remix]_Lizzo.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Good as You",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/28_Good_as_You_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Good as You",
+      "artist": "Kane Brown",
+      "has_synced": true,
+      "path": "select/29_Good_as_You_Kane_Brown.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "I'm Good (Blue)",
+      "artist": "David Guetta",
+      "has_synced": false,
+      "path": "select/30_I'm_Good_(Blue)_David_Guetta.txt"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Rain Is A Good Thing",
+      "artist": "Luke Bryan",
+      "has_synced": true,
+      "path": "select/31_Rain_Is_A_Good_Thing_Luke_Bryan.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Somehow You Do (From The Motion Picture Four Good Days)",
+      "artist": "Reba McEntire",
+      "has_synced": true,
+      "path": "select/32_Somehow_You_Do_(From_The_Motion_Picture_Four_Good_Days)_Reba_McEntire.lrc"
+    },
+    {
+      "id": "lrclib_33",
+      "source": "lrclib",
+      "title": "The Good Ones",
+      "artist": "Gabby Barrett",
+      "has_synced": true,
+      "path": "select/33_The_Good_Ones_Gabby_Barrett.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good Morning",
+      "artist": "First Love is Never Returned",
+      "has_synced": false,
+      "path": "select/pl_01_Good_Morning_First_Love_is_Never_Returned.txt"
+    }
+  ]
+}
